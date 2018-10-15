@@ -1,1 +1,2 @@
-# HW1new
+Life is great!
+Enjoy it!
